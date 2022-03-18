@@ -7,3 +7,6 @@ printf("my second commit");
 printf("my third commit");
 
 printf("my fourth commit");
+
+inin();
+
